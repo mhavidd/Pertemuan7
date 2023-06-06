@@ -1,0 +1,15 @@
+D:\inharitance\bin\Debug\net7.0\inharitance.exe
+D:\inharitance\bin\Debug\net7.0\inharitance.deps.json
+D:\inharitance\bin\Debug\net7.0\inharitance.runtimeconfig.json
+D:\inharitance\bin\Debug\net7.0\inharitance.dll
+D:\inharitance\bin\Debug\net7.0\inharitance.pdb
+D:\inharitance\obj\Debug\net7.0\inharitance.csproj.AssemblyReference.cache
+D:\inharitance\obj\Debug\net7.0\inharitance.GeneratedMSBuildEditorConfig.editorconfig
+D:\inharitance\obj\Debug\net7.0\inharitance.AssemblyInfoInputs.cache
+D:\inharitance\obj\Debug\net7.0\inharitance.AssemblyInfo.cs
+D:\inharitance\obj\Debug\net7.0\inharitance.csproj.CoreCompileInputs.cache
+D:\inharitance\obj\Debug\net7.0\inharitance.dll
+D:\inharitance\obj\Debug\net7.0\refint\inharitance.dll
+D:\inharitance\obj\Debug\net7.0\inharitance.pdb
+D:\inharitance\obj\Debug\net7.0\inharitance.genruntimeconfig.cache
+D:\inharitance\obj\Debug\net7.0\ref\inharitance.dll
